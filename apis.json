@@ -1,0 +1,74 @@
+{
+    "name": "Mozenda",
+    "description": "Over 7 billion web pages harvested since 2007. trusted by thousands of customers worldwide. Stellar account management and customer support.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1919-mozenda.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "scraping",
+        "scraping tools"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mozenda\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Mozenda",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1919-mozenda.jpg",
+            "humanURL": "http:\/\/www.mozenda.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mozenda-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mozenda-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.mozenda.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.mozenda.com\/blog\/?feed=rss2"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mozenda"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/mozenda"
+        },
+        {
+            "type": "Email",
+            "url": "sales@mozenda.com"
+        },
+        {
+            "type": "Email",
+            "url": "SUPPORT@MOZENDA.COM"
+        },
+        {
+            "type": "Email",
+            "url": "services@mozenda.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "http:\/\/www.twitter.com\/mozenda"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.mozenda.com"
+        }
+    ]
+}
